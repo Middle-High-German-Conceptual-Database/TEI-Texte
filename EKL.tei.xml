@@ -17566,7 +17566,7 @@
           </tei:l>
           <tei:l n="2">
             <tei:seg xml:id="EKL_152020_0" type="token" lemmaRef="1517" meaningRef="2355" pos="POS" wordRef="5023">sinen</tei:seg>
-            <tei:seg xml:id="EKL_152020_1" type="token">valken</tei:seg>
+            <tei:seg xml:id="EKL_152020_1" type="token" lemmaRef="22546" meaningRef="98183" pos="NAM">valken</tei:seg>
             <tei:seg xml:id="EKL_152020_2" type="token" lemmaRef="1517" meaningRef="2355" pos="PRO" wordRef="4999">er</tei:seg>
             <tei:seg xml:id="EKL_152020_3" type="token" lemmaRef="709" pos="VRB" wordRef="2193">gebant</tei:seg>
           </tei:l>
@@ -25337,7 +25337,7 @@
           <tei:l n="5">
             <tei:seg xml:id="EKL_218050_0" type="token" lemmaRef="1119" meaningRef="1770" pos="ART" wordRef="3506">den</tei:seg>
             <tei:seg xml:id="EKL_218050_1" type="token" lemmaRef="1517" meaningRef="2355" pos="POS" wordRef="5023">sinen</tei:seg>
-            <tei:seg xml:id="EKL_218050_2" type="token">valken</tei:seg>
+            <tei:seg xml:id="EKL_218050_2" type="token" lemmaRef="22546" meaningRef="98183" pos="NAM">valken</tei:seg>
             <tei:seg xml:id="EKL_218050_3" type="token" lemmaRef="1517" meaningRef="2355" pos="PRO" wordRef="4999">er</tei:seg>
             <tei:seg xml:id="EKL_218050_4" type="token" lemmaRef="1180" meaningRef="1864" pos="ADV" wordRef="3738">do</tei:seg>
             <tei:seg xml:id="EKL_218050_5" type="token">bant</tei:seg>
